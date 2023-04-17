@@ -48,6 +48,29 @@
       "sC" : 3,
       "tS" : 0
     },
+    "\/dev\/content\/Hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 271181,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/content\/Hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/dev\/content\/Logo.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/dev\/content\/Logo.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
     "\/dev\/global\/footer.kit" : {
       "cB" : 0,
       "ft" : 2048,
