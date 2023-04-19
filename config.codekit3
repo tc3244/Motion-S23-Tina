@@ -37,7 +37,7 @@
       "oF" : 0,
       "pg" : 0
     },
-    "\/deploy\/img\/Hero.jpg" : {
+    "\/deploy\/img\/hero.jpg" : {
       "ft" : 16384,
       "iS" : 270283,
       "jF" : 0,
@@ -49,16 +49,6 @@
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
-    },
-    "\/deploy\/img\/logo.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/deploy\/img\/logo.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
     },
     "\/deploy\/index.html" : {
       "cB" : 0,
