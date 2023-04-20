@@ -560,6 +560,7 @@ header > div aside a {
   }
 }
 #content > div h1 {
+  text-align: center;
   font-size: 2.1875rem;
   margin-bottom: 10px;
   color: var(--orange);
@@ -567,6 +568,6 @@ header > div aside a {
 #content > div p {
   font-size: 1.125rem;
   line-height: 1.875rem;
-  text-align: justify;
+  text-align: center;
   color: var(--darkerbrown);
 }
