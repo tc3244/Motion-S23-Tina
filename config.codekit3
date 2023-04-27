@@ -395,6 +395,14 @@
       "oF" : 0,
       "oO" : 1,
       "oS" : 1
+    },
+    "\/prepros.config" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/prepros.config",
+      "oF" : 0
     }
   },
   "hooks" : [
